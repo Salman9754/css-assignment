@@ -1,0 +1,58 @@
+body {
+    max-width: 70%;
+    margin: auto;
+}
+
+img {
+    width: 900px;
+}
+
+ul {
+    list-style: circle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    list-style-position: outside;
+}
+ul li{
+    line-height: 3;
+}
+
+ol {
+    list-style-image: url(tick-checkbox-svgrepo-com.svg);
+    margin-right: 50px;
+    list-style-position: outside;
+}
+header {
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pr {
+    background-color:red ;
+}
+
+  .cr  {
+    background-color:blue ;
+}
+
+   .ad {
+    background-color:green ;
+}
+
+   .dr{
+    background-color: yellow;
+}
+
+  .ba  {
+    background-color:orange ;
+}
+
+.co  {
+   background-color: purple ;
+}
+.recipe-details{
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px lightblue;
+
+}
